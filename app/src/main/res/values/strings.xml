@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kodiak King</string>
+    <string name="offline_title">Can\'t reach Kodiak King</string>
+    <string name="offline_message">Check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="no_app_found">No app found to open this link</string>
+    <string name="download_started">Downloading…</string>
+    <string name="check_update">Check for update</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
